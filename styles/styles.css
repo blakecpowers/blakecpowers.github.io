@@ -309,25 +309,25 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .aws {
-  width: 80%;
+  width: 75%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .postgresql {
-  width: 83%;
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+  width: 75%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 87%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .docker {
-  width: 70%;
+  width: 50%;
 }
 
 .stat-title {
