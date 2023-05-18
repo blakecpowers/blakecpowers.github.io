@@ -277,6 +277,9 @@ section {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
 }
+.aws-progress-bar {
+  text-decoration: underline;
+}
 .about-stats .progress-bars .progress-bar {
   display: flex;
   flex-direction: column;
